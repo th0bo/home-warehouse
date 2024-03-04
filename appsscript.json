@@ -27,6 +27,14 @@
         "version": "v1",
         "serviceId": "tasks"
       }
+    ],
+    "libraries": [
+      {
+        "userSymbol": "DriveSheets",
+        "version": "0",
+        "libraryId": "1avYeufvXAHoaIowQWOhTGe8GOW3bxaQXp16oWzXTfyBjqCE3yKupJntz",
+        "developmentMode": true
+      }
     ]
   },
   "exceptionLogging": "STACKDRIVER",

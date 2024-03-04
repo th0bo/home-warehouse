@@ -19,6 +19,10 @@ const processGmailReceipts = () => {
   GmailReceiptFetcher.flagAsProcessed(gmailReceipts);
 };
 
+const testDriveGmailReceipts = () => {
+  console.log(SheetsReceiptLineData.read());
+}
+
 const storeListToTasks = () => {
   TasksGroceriesList.write([
     "bananes",
