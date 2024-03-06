@@ -10,8 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "@google/clasp": "^2.4.2",
-    "@types/google-apps-script": "^1.0.78",
-    "typescript": "^5.3.2",
-    "drive-sheets": "github:th0bo/drive-sheets"
+    "@types/google-apps-script": "^1.0.82",
+    "drive-sheets": "github:th0bo/drive-sheets",
+    "typescript": "^5.3.3"
   }
 }
